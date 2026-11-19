@@ -1,0 +1,6 @@
+build*/
+dist/
+shots/
+build_test/
+*.o
+.DS_Store
